@@ -1,0 +1,10 @@
+.invalid:focus{
+    border: 2px solid red;
+    outline: none;
+
+}
+
+.invalid{
+    border: 2px solid red;
+    outline: none;
+}
